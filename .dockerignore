@@ -1,0 +1,8 @@
+images/
+*.jpg
+*.png
+*.gif
+.git
+.gitignore
+README.md
+.env
